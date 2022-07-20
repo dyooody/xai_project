@@ -1,1 +1,2 @@
-# xai_project
+# explainable AI project
+
