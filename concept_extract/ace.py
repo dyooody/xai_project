@@ -1,10 +1,3 @@
-"""ACE library.
-
-Library for discovering and testing concept activation vectors. It contains
-ConceptDiscovery class that is able to discover the concepts belonging to one
-of the possible classification labels of the classification task of a network
-and calculate each concept's TCAV score..
-"""
 from multiprocessing import dummy as multiprocessing
 import sys
 import os, pathlib
